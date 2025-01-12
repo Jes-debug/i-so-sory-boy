@@ -1,3 +1,14 @@
+-- why u look in MY code big boyyy
+
+
+-- this is skidded and ai generated
+
+
+
+
+
+
+
 local Players = game:GetService("Players")
 local RS = game:GetService("RunService")
 local Client = Players.LocalPlayer
